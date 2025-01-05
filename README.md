@@ -1,2 +1,2 @@
 # python-programs
-python programs i have practices 
+python programs i have practiced

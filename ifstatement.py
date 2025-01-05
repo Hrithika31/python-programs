@@ -8,4 +8,4 @@ if temperature == 35:
      print("temperature is 35 c")
 if temperature < 30:
      print("yeah!")
-print("nahhh!")
+print("nahhhh!")

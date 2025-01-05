@@ -1,11 +1,11 @@
-#type 1
+#type1
 
 def greet(name):
     print(f"hi {name}")
 
 greet("hrithika")
 
-#type 2
+#type2
 
 def get_greet(name):
     return f"hi {name}"

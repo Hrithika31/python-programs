@@ -15,4 +15,4 @@ for number in range(2,8):
     print(number * "^")
 
 for number in range(2,8,2):
-    print(number * "^")
+    print(number * "^") 

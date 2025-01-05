@@ -1,7 +1,7 @@
 from pprint import pprint
 #for a given sentance we'll have to find the most repeated charecter
 hello = "This is a common Interview Question"
-sentance = hello.lower() #for lower charecters
+sentance = hello.lower() 
 char_frequency = {}
 for char in sentance:
     if char in char_frequency:

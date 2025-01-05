@@ -4,4 +4,4 @@ def multiply(*numbers):
         total *= number
     return total
 
-print(multiply(2, 3, 6))
+print(multiply(2, 3, 6)) 

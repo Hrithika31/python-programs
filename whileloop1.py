@@ -1,4 +1,4 @@
-number = 212
+number = 212 
 while number > 0:
     print(number)
     number = number//2

@@ -10,3 +10,4 @@ print(string.find("on"))
 print(string.replace("o", "h"))
 print("pro" in string)
 print("am" in string)
+#multiple ways of a string

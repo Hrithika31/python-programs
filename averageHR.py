@@ -6,4 +6,4 @@ def average(n):
     sum(arr)
     
     average = sum(arr) / len(arr)
-    print(average)
+    print(average) #sum/n

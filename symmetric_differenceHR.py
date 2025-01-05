@@ -7,4 +7,4 @@ b = set(map(int, input().strip().split()))
 symmetric_diff = a.symmetric_difference(b)
 
 for elem in sorted(symmetric_diff):
-    print(elem)
+    print(elem) 

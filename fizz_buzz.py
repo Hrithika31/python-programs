@@ -5,6 +5,6 @@ def fizz_buzz(input):
         print("Fizz")
     if(input % 5 == 0):
         print("Buzz")
-    return input
+    return input 
 
 fizz_buzz(6)

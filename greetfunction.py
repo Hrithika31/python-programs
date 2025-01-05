@@ -3,4 +3,3 @@ def greet():
     print("how is your day going?")
 
 greet()
-greet()

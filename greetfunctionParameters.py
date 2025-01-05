@@ -4,4 +4,4 @@ def greet(first_name, last_name):
     print("have great time")
 
 greet("rahul", "nayak")
-greet("mummy", "yummy")
+greet("mummy")
